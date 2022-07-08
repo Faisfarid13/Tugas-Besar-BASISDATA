@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "786366376187",
+    "project_id": "pemrograman-mobile-21cda",
+    "storage_bucket": "pemrograman-mobile-21cda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786366376187:android:1cdc100f5887f2b176e85e",
+        "android_client_info": {
+          "package_name": "com.example.modul_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786366376187-tpbi3kf7u2r2fgv8delhvlmp2mdid35t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1DL3Ad7UBAJVvFaudwSU_UicUE0EjeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786366376187-tpbi3kf7u2r2fgv8delhvlmp2mdid35t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "786366376187-tq3s4ibb57cp38fapibjqmb0vdorhma3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.modul2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
